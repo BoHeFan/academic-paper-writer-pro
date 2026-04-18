@@ -56,13 +56,13 @@ Pipeline D (内容生成) → Pipeline E (降AI率) → Pipeline C (排版)
 
 ### 方式一：一键安装（推荐）
 
-`ash
+`
 npx skills add https://github.com/BoHeFan/academic-paper-writer-pro --skill academic-paper-writer-pro
 `
 
 ### 方式二：手动克隆
 
-`ash
+`
 git clone https://github.com/BoHeFan/academic-paper-writer-pro.git
 `
 
