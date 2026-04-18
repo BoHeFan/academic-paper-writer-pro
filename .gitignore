@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Generated files
+resources/pages/
+resources/md/
+resources/figures/
+resources/anti_aigc/input/
+resources/anti_aigc/output/
+resources/anti_aigc/logs/
+resources/compiled_paper.md
+resources/config.json
+resources/checkpoint.json
+outputs/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
